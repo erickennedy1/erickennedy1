@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eric Kennedy</h1>
 <h3 align="center">I'm a game developer from Brazil, aged 23, passionate about creating games and immersive experiences. Currently, I'm focused on improving my skills in Unity Engine and the C# language.</h3>
 
+<p align="center">
+  <img src="[url_da_sua_imagem](https://img.itch.zone/aW1nLzE2NDE2ODg4LnBuZw==/original/OjcQTy.png)">
+</p>
+
 - 🔭 I’m currently working on [Thorn Ascent](https://github.com/erickennedy1/Dark-Ascent)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606)
