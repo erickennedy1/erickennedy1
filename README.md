@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Thorn Ascent](https://github.com/erickennedy1/Dark-Ascent)
 
-- 👨‍💻 All of my projects are available at [https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606](https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606)
 
 - 📫 How to reach me **er1kennedy12@gmail.com**
 
-- 📄 Know about my experiences [https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74](https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74)
+- 📄 Know about my experiences [Curriculo](https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
