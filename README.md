@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **er1kennedy12@gmail.com**
 
-- 📄 Know about my experiences [Curriculo](https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74)
+- 📄 Know about my experiences [Curriculum](https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
