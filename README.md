@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Kennedy</h1>
-<h3 align="center">I'm a game developer from Brazil, aged 23, passionate about creating games and immersive experiences. Currently, I'm focused on improving my skills in Unity Engine and the C# language.</h3>
+<h3 align="center">I'm a game developer from Brazil, aged 24, passionate about creating games and immersive experiences. Currently, I'm focused on improving my skills in Unity Engine and the C# language.</h3>
 
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzE2NDE2ODg4LnBuZw==/original/OjcQTy.png">
