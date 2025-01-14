@@ -5,8 +5,6 @@
   <img src="https://img.itch.zone/aW1nLzE2NDE2ODg4LnBuZw==/original/OjcQTy.png">
 </p>
 
-- 🔭 I’m currently working on [Thorn Ascent](https://github.com/erickennedy1/Dark-Ascent)
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606)
 
 - 📫 How to reach me **er1kennedy12@gmail.com**
