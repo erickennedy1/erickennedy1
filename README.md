@@ -24,7 +24,6 @@ Desenvolvedor apaixonado por criar experiências digitais — de aplicações we
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -32,6 +31,8 @@ Desenvolvedor apaixonado por criar experiências digitais — de aplicações we
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![AR](https://img.shields.io/badge/AR-5C5C5C?style=flat-square&logo=meta&logoColor=white)
+![VR](https://img.shields.io/badge/VR-5C5C5C?style=flat-square&logo=meta&logoColor=white)
 ![Spatial](https://img.shields.io/badge/Spatial-FF6B6B?style=flat-square&logo=spatial&logoColor=white)
 
 </div>
