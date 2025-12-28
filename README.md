@@ -1,38 +1,93 @@
-<h1 align="center">Hi 👋, I'm Eric Kennedy</h1>
-<h3 align="center">I'm a game developer from Brazil, aged 24, passionate about creating games and immersive experiences. Currently, I'm focused on improving my skills in Unity Engine and the C# language.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1nLzE2NDE2ODg4LnBuZw==/original/OjcQTy.png">
-</p>
+# Eric Kennedy
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://pleasant-canvas-dc5.notion.site/Portf-lio-c89f4e11fcd24b499a846e590efdd606)
+**Full Stack Developer & Game Developer**
 
-- 📫 How to reach me **er1kennedy12@gmail.com**
+Desenvolvedor apaixonado por criar experiências digitais — de aplicações web a mundos imersivos.
 
-- 📄 Know about my experiences [Curriculum](https://pleasant-canvas-dc5.notion.site/Curr-culo-e1745798ef6449098fc088cf6e065e52?pvs=74)
+<br>
 
-<h3 align="left">Connect with me:</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erickennedy1.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lwurindo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er1kennedy12@gmail.com)
 
-<div align="left">
-  <a href="er1kennedy12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lwurindo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+### Tech Stack
+
+<div align="center">
+
+**Web Development**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Spatial](https://img.shields.io/badge/Spatial-FF6B6B?style=flat-square&logo=spatial&logoColor=white)
+
 </div>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erickennedy1&show_icons=true&locale=en&layout=compact" alt="erickennedy1" /></p>
+### Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickennedy1&show_icons=true&locale=en" alt="erickennedy1" /></p>
+<table>
+<tr>
+<td width="50%">
+
+**[Dark Ascent](https://github.com/erickennedy1/dark-ascent)**
+<br>
+Platformer 2D com shaders customizados
+<br>
+`Unity` `C#` `ShaderLab`
+
+</td>
+<td width="50%">
+
+**[Dev Wrapped](https://github.com/erickennedy1/dev-wrapped)**
+<br>
+Retrospectiva anual para desenvolvedores
+<br>
+`Vue 3` `Node.js` `APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Azulia Verso](https://github.com/erickennedy1/azuliaverso)**
+<br>
+Mundo 3D submarino para Spatial
+<br>
+`Unity` `Spatial` `HLSL`
+
+</td>
+<td width="50%">
+
+**mK Beauty**
+<br>
+Provador virtual de cabelo com IA
+<br>
+`Vue 3` `MediaPipe` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=erickennedy1&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=888888&hide=contribs" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickennedy1&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=888888" height="150">
+
+</div>
