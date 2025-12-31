@@ -86,9 +86,3 @@ Provador virtual de cabelo com IA
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=erickennedy1&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=888888&hide=contribs" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickennedy1&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=888888" height="150">
-
-</div>
